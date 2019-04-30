@@ -3,10 +3,15 @@
 
 <head>
     <meta charset="utf-8">
-
+    <!-- The AMP runtime must be loaded as the second child of the <head> tag. -->
     <script async type="text/javascript" src='https://www.lowescdn.com/www/cq/5.1.21/clientlibs/lowes-mobile-first/head-commons.min.js'></script>
 
+    <!-- AMP HTML files require a canonical link pointing to the regular HTML. -->
     <link rel="canonical" href="httpss://www.lowes.com">
+
+    <!-- AMP HTML files require a viewport declaration. It's recommended to include initial-scale=1. -->
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
     <meta name="description" content="Start with Lowe's for appliances, paint, patio furniture, tools, flooring, home décor, furniture and more. Plus get free 2-day shipping with MyLowe's.">
 
     <title>Lowe's Home Improvement</title>
