@@ -9764,14 +9764,6 @@ svg.brand-color {
     position: relative
 }
 
-/*@font-face {
-    font-family: ICON;
-    src: url(../fonts/lowes-icons/lowes-icons.eot?ixe4zi);
-    src: url(../fonts/lowes-icons/lowes-icons.woff?ixe4zi) format('woff'),url(../fonts/lowes-icons/lowes-icons.eot?#iefixixe4zi) format('embedded-opentype'),url(../fonts/lowes-icons/lowes-icons.ttf?ixe4zi) format('truetype'),url(../fonts/lowes-icons/lowes-icons.svg?ixe4zi#lowes-icons) format('svg');
-    font-weight: 400;
-    font-style: normal
-}*/
-
 [class^=icon-] {
     font-family: ICON;
     font-size: 1em;
