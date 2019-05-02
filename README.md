@@ -15,5 +15,5 @@
 https://amp.dev/documentation/guides-and-tutorials/learn/spec/amphtml?referrer=ampproject.org#required-markup
 https://css-tricks.com/taking-amp-for-a-spin/
 
-**Test Link**  
+**AMP Test Link**  
 https://search.google.com/test/amp?id=nYfFWttJubwJEHlfY-lgIQ
